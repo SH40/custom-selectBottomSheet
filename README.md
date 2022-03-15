@@ -1,4 +1,4 @@
-# custom-alert
+# custom-select bottom sheet
 
 ## capture image
 <img src="https://user-images.githubusercontent.com/43785575/158384553-b0f6b2c3-3833-4bba-a9f1-e9a7c6b97bf7.png" width="300" height="649">
